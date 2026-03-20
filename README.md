@@ -1,2 +1,3 @@
-# rapid-web-app-vcb7
-A web application for modern development workflows
+# Rapid Web App Vcb7
+
+A web application for modern development workflows.
